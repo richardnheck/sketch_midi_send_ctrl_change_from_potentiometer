@@ -22,6 +22,11 @@ You can see that the current value of the control change is 64 which is roughly 
 
 ![image](https://github.com/richardnheck/sketch_midi_send_ctrl_change_from_potentiometer/assets/33075140/0f1bab19-fc6e-4283-8b23-b92a698f8dd3)
 
+### LoopBe Internal midi
+After installing LoopBe, LoopBe Internal Midi should automatically appear as a midi device in your DAW's midi settings
+![image](https://github.com/richardnheck/sketch_midi_send_ctrl_change_from_potentiometer/assets/33075140/0f43c784-fd6d-4398-ba6c-57757911da9a)
+
+
 
 ## References
 ### Arduino and USB Midi
