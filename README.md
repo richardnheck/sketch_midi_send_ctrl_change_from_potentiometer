@@ -10,10 +10,10 @@ All you need to do is connect a potentiometer to Analog Pin A0.
 ![image](https://github.com/richardnheck/sketch_midi_send_ctrl_change_from_potentiometer/assets/33075140/dd479303-e8b8-4bf1-b008-b4f9059d617a)
 
 ## Dependencies
-- Arduino UNO
+- Arduino UNO or UNO compatible board
 - Potentiometer
-- Arduino IDE
-- Midi Library which can be installed easily via the Library Manager https://www.arduino.cc/reference/en/libraries/midi-library/
+- [Arduino IDE](https://www.arduino.cc/en/software)
+- [Midi Library](https://www.arduino.cc/reference/en/libraries/midi-library/) which can be installed easily via the Library Manager in Arduino IDE
 
 ## Demo
 The screenshot shows the midi control change messages being logged in Hairless Midi Bridge.  You can see that the midi is mapped to LoopBe internal midi.  The DAW being controlled is FLStudio, but any DAW can be used and LoopBe Internal Midi should appear as an input midi device.
